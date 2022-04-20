@@ -1,6 +1,6 @@
 {
-  "short_name": "react-number-ticker",
-  "name": "react-number-ticker",
+  "short_name": "react-animate-number-ticker",
+  "name": "react-animate-number-ticker",
   "icons": [
     {
       "src": "favicon.ico",
