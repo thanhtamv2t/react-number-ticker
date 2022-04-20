@@ -1,13 +1,13 @@
-# react-number-ticker
+# react-animate-number-ticker
 
 > Animate Number Ticker
 
-[![NPM](https://img.shields.io/npm/v/react-number-ticker.svg)](https://www.npmjs.com/package/react-number-ticker) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/react-animate-number-ticker.svg)](https://www.npmjs.com/package/react-animate-number-ticker) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
 ```bash
-npm install --save react-number-ticker
+npm install --save react-animate-number-ticker
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ npm install --save react-number-ticker
 ```tsx
 import React, { Component } from 'react'
 
-import ReactNumberTicker from 'react-number-ticker'
+import ReactNumberTicker from 'react-animate-number-ticker'
 
 class Example extends Component {
   render() {

@@ -1,8 +1,8 @@
 import React from 'react'
 import { useState } from 'react'
 
-import ReactNumberTicker from 'react-number-ticker'
-import 'react-number-ticker/dist/index.css'
+import ReactNumberTicker from 'react-animate-number-ticker'
+import 'react-animate-number-ticker/dist/index.css'
 
 const RandomAndFormatNumber = () => {
   const rndNumber = Math.floor(Math.random() * 1000000);

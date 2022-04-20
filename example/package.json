@@ -1,5 +1,5 @@
 {
-  "name": "react-number-ticker-example",
+  "name": "react-animate-number-ticker-example",
   "homepage": ".",
   "version": "0.0.0",
   "private": true,
@@ -20,7 +20,7 @@
     "lodash": "^4.17.21",
     "react": "link:../node_modules/react",
     "react-dom": "link:../node_modules/react-dom",
-    "react-number-ticker": "link:..",
+    "react-animate-number-ticker": "link:..",
     "react-scripts": "link:../node_modules/react-scripts",
     "typescript": "link:../node_modules/typescript"
   },
