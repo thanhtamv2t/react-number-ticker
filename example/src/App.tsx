@@ -23,10 +23,12 @@ const App = () => {
   
 
   return (
-    <div>
-      <ReactNumberTicker number={`$${n}`}/>
+    <main>
+      <div className="number-container">
+        <ReactNumberTicker number={`$${n}`}/>
+      </div>
       <button onClick={onChangeNumber}>Change me</button>
-    </div>
+    </main>
   )
 }
 

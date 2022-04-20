@@ -12,3 +12,38 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+main{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+
+button{
+  border-radius: 8px;
+  padding: 16px 24px;
+  outline: none;
+  border: none;
+  display: block;
+  margin-top: 12px;
+  cursor: pointer;
+  background-color: #76c893;
+  color: white;
+  font-weight: bolder;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: all ease 0.5s;
+}
+
+button:hover{
+  background-color: #52b69a;
+}
+
+.number-container{
+  font-size: 72px;
+}
