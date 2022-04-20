@@ -1,0 +1,11 @@
+.reactNumberTicker{
+  display: inline-flex;
+}
+
+.num{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+}
+
