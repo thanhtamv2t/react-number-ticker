@@ -19,6 +19,7 @@ npm install --save react-animate-number-ticker
 import React, { Component } from 'react'
 
 import ReactNumberTicker from 'react-animate-number-ticker'
+import 'react-animate-number-ticker/dist/index.css'
 
 class Example extends Component {
   render() {
